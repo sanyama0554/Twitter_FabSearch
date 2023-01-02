@@ -2,7 +2,10 @@ import React from "react";
 
 const Header: React.FC = () => {
   return (
-    <h1>Twitterいいね検索</h1>
+    <header>
+      <h1>Twitterいいね検索</h1>
+      <p>検索バー</p>
+    </header>
   )
 }
 
